@@ -1,4 +1,4 @@
-package pasetoke
+package pasetokee
 import (
 	"encoding/json"
 	"net/http"
